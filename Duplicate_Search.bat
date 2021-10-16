@@ -36,7 +36,7 @@ for /f "tokens=4,5delims=. " %%A in ('ver') do (
     )
 )
 for %%A in (s_Index s_Result s_Second) do set %%A=
-set /a Results=0, Index_1=0, Index_2=1
+set /a Percentage=0, Results=0, Index_1=0, Index_2=1
 echo.
 echo  !CYAN!■ Searching for duplicates in "%~dp0" ...
 echo  ├──────────────────────────────────────────────────────────────────────────────
