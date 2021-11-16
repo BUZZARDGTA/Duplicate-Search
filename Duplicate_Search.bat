@@ -69,7 +69,7 @@ set Percentage=100
 %@TITLE%
 %@SET_S:?=Seconds%
 echo.
-echo  ■ Scan complited with !Results! duplicate!s_Results! found from !Index_1! indexed file!s_Index_1! in !Seconds! second!s_Seconds!.
+echo  ■ Scan completed with !Results! duplicate!s_Results! found from !Index_1! indexed file!s_Index_1! in !Seconds! second!s_Seconds!.
 echo.
 <nul set /p= ■ Press {ANY KEY} to exit...
 >nul pause
